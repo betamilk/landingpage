@@ -9,6 +9,4 @@ Ce court métrage sera projeté ensuite au coeur d’un spectacle pluridisciplin
 
 Le film sera également placé dans des festivals de court métrage adaptés.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html image="projects/proj-1/crabnebula.jpg" %}
