@@ -3,14 +3,14 @@
 
 menu:
 - {name: 'Projets', url: ''}
-- {name: 'Structure',    url: 'about'}
-- {name: 'Contacts',  url: 'contact'}
+- {name: 'À propos', url: 'about'}
+- {name: 'Contacts', url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Essentiellement Là',   url: 'proj-1'}
+- {name: 'Projet: Essentiellement Là',   url: 'proj-1'}
 
 #-------------------------------
 # Contact Section
